@@ -1,0 +1,1513 @@
+{
+  "total_streams": 230,
+  "weekdayDist": {
+    "0": {
+      "count": 13,
+      "percent": 5.7
+    },
+    "1": {
+      "count": 40,
+      "percent": 17.4
+    },
+    "2": {
+      "count": 39,
+      "percent": 17
+    },
+    "3": {
+      "count": 38,
+      "percent": 16.5
+    },
+    "4": {
+      "count": 35,
+      "percent": 15.2
+    },
+    "5": {
+      "count": 32,
+      "percent": 13.9
+    },
+    "6": {
+      "count": 33,
+      "percent": 14.3
+    }
+  },
+  "longest_streams": [
+    [
+      44295,
+      [
+        {
+          "video_id": "4r7Iko4sz5Q",
+          "title": "The Secret, Illegal $28M NBA Deal",
+          "date": "2025-09-04T07:00:00.000Z",
+          "duration": 2389,
+          "yok": 0,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 0,
+          "joeler": false,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        },
+        {
+          "video_id": "IXY7x-kQ1-o",
+          "title": "Speedrunner Plays Hollow Knight Silksong Day 1",
+          "date": "2025-09-04T07:00:00.000Z",
+          "duration": 41906,
+          "yok": 2,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 0,
+          "joeler": false,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        }
+      ]
+    ],
+    [
+      29007,
+      [
+        {
+          "video_id": "ezfoD3w3ZQM",
+          "title": "so i hosted a convention...",
+          "date": "2025-11-22T08:00:00.000Z",
+          "duration": 29007,
+          "yok": 0,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 0,
+          "joeler": true,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        }
+      ]
+    ],
+    [
+      25142,
+      [
+        {
+          "video_id": "nZxMZU3KhSE",
+          "title": "Mario64 Two Speedrunners vs Hunter (ft. Squeex & Ludwig)",
+          "date": "2025-01-31T08:00:00.000Z",
+          "duration": 25142,
+          "yok": 4,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 1,
+          "joeler": true,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        }
+      ]
+    ],
+    [
+      24298,
+      [
+        {
+          "video_id": "PwbzqiN1TJ0",
+          "title": "Atrioc Reacts To Trump's Inauguration",
+          "date": "2025-01-20T08:00:00.000Z",
+          "duration": 14215,
+          "yok": 0,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 0,
+          "joeler": false,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        },
+        {
+          "video_id": "H33oNn1EZNc",
+          "title": "The $10,000 Stock Market Competition ft.‪ Ludwig, DougDoug, Stanz, & Aiden",
+          "date": "2025-01-20T08:00:00.000Z",
+          "duration": 6407,
+          "yok": 0,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 1,
+          "joeler": false,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        },
+        {
+          "video_id": "_xWz4Iwcbfg",
+          "title": "Atrioc Reacts to The Second Punic War - OverSimplified (Part 3)",
+          "date": "2025-01-20T08:00:00.000Z",
+          "duration": 3676,
+          "yok": 1,
+          "gss_react_count": 1,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 0,
+          "joeler": false,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        }
+      ]
+    ],
+    [
+      23760,
+      [
+        {
+          "video_id": "EiFbtxpCNKg",
+          "title": "Atrioc Plays Peak with Friends",
+          "date": "2025-07-21T07:00:00.000Z",
+          "duration": 23760,
+          "yok": 1,
+          "gss_react_count": 0,
+          "nose_blow_count": 0,
+          "ac_adjust_count": 2,
+          "joeler": false,
+          "ftc_count": 0,
+          "succ_ftc_count": 0
+        }
+      ]
+    ]
+  ],
+  "categoryDist": {
+    "waffling": {
+      "count": 214,
+      "percent": 93
+    },
+    "presentation": {
+      "count": 54,
+      "percent": 23.5
+    },
+    "reacting": {
+      "count": 215,
+      "percent": 93.5
+    },
+    "reddit recap": {
+      "count": 7,
+      "percent": 3
+    },
+    "gaming": {
+      "count": 90,
+      "percent": 39.1
+    },
+    "live coverage": {
+      "count": 22,
+      "percent": 9.6
+    },
+    "tier list": {
+      "count": 5,
+      "percent": 2.2
+    },
+    "thumbnail stream": {
+      "count": 3,
+      "percent": 1.3
+    },
+    "best tweets": {
+      "count": 5,
+      "percent": 2.2
+    },
+    "dailies": {
+      "count": 12,
+      "percent": 5.2
+    },
+    "house md": {
+      "count": 15,
+      "percent": 6.5
+    },
+    "special event": {
+      "count": 10,
+      "percent": 4.3
+    },
+    "shark tank": {
+      "count": 2,
+      "percent": 0.9
+    },
+    "smallville": {
+      "count": 28,
+      "percent": 12.2
+    },
+    "secret millionaires club": {
+      "count": 1,
+      "percent": 0.4
+    },
+    "x files": {
+      "count": 4,
+      "percent": 1.7
+    },
+    "irl": {
+      "count": 1,
+      "percent": 0.4
+    },
+    "killer whales": {
+      "count": 2,
+      "percent": 0.9
+    }
+  },
+  "total_nose_blow": 47,
+  "total_ac_adjust": 45,
+  "total_joeler": 62,
+  "total_gss_reacts": 311,
+  "contentCount": [
+    [
+      "wsj",
+      21
+    ],
+    [
+      "coffeezilla",
+      20
+    ],
+    [
+      "almost friday",
+      19
+    ],
+    [
+      "cnbc",
+      13
+    ],
+    [
+      "how money works",
+      11
+    ],
+    [
+      "fireship",
+      10
+    ],
+    [
+      "good work",
+      10
+    ],
+    [
+      "tldr",
+      7
+    ],
+    [
+      "japanalysis",
+      6
+    ],
+    [
+      "casually explained",
+      6
+    ],
+    [
+      "search party",
+      5
+    ],
+    [
+      "man carrying thing",
+      5
+    ],
+    [
+      "half as interesting",
+      4
+    ],
+    [
+      "bloomberg",
+      4
+    ],
+    [
+      "hoser",
+      4
+    ],
+    [
+      "hank green",
+      4
+    ],
+    [
+      "more perfect union",
+      4
+    ],
+    [
+      "drew gooden",
+      3
+    ],
+    [
+      "sam o'nella",
+      3
+    ],
+    [
+      "dunkey",
+      3
+    ],
+    [
+      "rdc world",
+      3
+    ],
+    [
+      "history matters",
+      3
+    ],
+    [
+      "economics explained",
+      3
+    ],
+    [
+      "financial times",
+      3
+    ],
+    [
+      "business insider",
+      3
+    ],
+    [
+      "fern",
+      2
+    ],
+    [
+      "polymatter",
+      2
+    ],
+    [
+      "wendover productions",
+      2
+    ],
+    [
+      "internet shaquille",
+      2
+    ],
+    [
+      "isto",
+      2
+    ],
+    [
+      "jxmyhighroller",
+      2
+    ],
+    [
+      "eddy burback",
+      2
+    ],
+    [
+      "summoning salt",
+      2
+    ],
+    [
+      "johnny harris",
+      2
+    ],
+    [
+      "micro",
+      2
+    ],
+    [
+      "jgao",
+      2
+    ],
+    [
+      "primal space",
+      2
+    ],
+    [
+      "jreg",
+      2
+    ],
+    [
+      "60 minutes",
+      2
+    ],
+    [
+      "mkbhd",
+      2
+    ],
+    [
+      "vox",
+      1
+    ],
+    [
+      "paint explainer",
+      1
+    ],
+    [
+      "abc",
+      1
+    ],
+    [
+      "overly sarcastic productions",
+      1
+    ],
+    [
+      "oversimplified",
+      1
+    ],
+    [
+      "mark rober",
+      1
+    ],
+    [
+      "john oliver",
+      1
+    ],
+    [
+      "veritasium",
+      1
+    ],
+    [
+      "shortary",
+      1
+    ],
+    [
+      "cgp gray",
+      1
+    ],
+    [
+      "ign",
+      1
+    ],
+    [
+      "sisyphus 55",
+      1
+    ],
+    [
+      "wired",
+      1
+    ],
+    [
+      "casual economics",
+      1
+    ],
+    [
+      "spectacles",
+      1
+    ],
+    [
+      "bon appetit",
+      1
+    ],
+    [
+      "historically",
+      1
+    ],
+    [
+      "vsauce",
+      1
+    ],
+    [
+      "engineering explained",
+      1
+    ],
+    [
+      "jaden williams",
+      1
+    ],
+    [
+      "gamers nexus",
+      1
+    ],
+    [
+      "tierzoo",
+      1
+    ],
+    [
+      "the onion",
+      1
+    ],
+    [
+      "kurzgesagt",
+      1
+    ],
+    [
+      "anthony po",
+      1
+    ],
+    [
+      "nakeyjakey",
+      1
+    ]
+  ],
+  "notableCount": [
+    [
+      "donald trump",
+      148
+    ],
+    [
+      "elon musk",
+      77
+    ],
+    [
+      "jerome powell",
+      22
+    ],
+    [
+      "sam altman",
+      21
+    ],
+    [
+      "scott bessent",
+      21
+    ],
+    [
+      "jd vance",
+      20
+    ],
+    [
+      "mark zuckerberg",
+      17
+    ],
+    [
+      "joe biden",
+      17
+    ],
+    [
+      "xi jinping",
+      16
+    ],
+    [
+      "vladimir putin",
+      16
+    ],
+    [
+      "zelensky",
+      15
+    ],
+    [
+      "jeffrey epstein",
+      14
+    ],
+    [
+      "jensen huang",
+      13
+    ],
+    [
+      "gavin newsom",
+      13
+    ],
+    [
+      "bernie sanders",
+      12
+    ],
+    [
+      "justin trudeau",
+      12
+    ],
+    [
+      "luka doncic",
+      12
+    ],
+    [
+      "howard lutnick",
+      10
+    ],
+    [
+      "mark carney",
+      10
+    ],
+    [
+      "pam bondi",
+      10
+    ],
+    [
+      "lina khan",
+      9
+    ],
+    [
+      "mike johnson",
+      9
+    ],
+    [
+      "mr beast",
+      8
+    ],
+    [
+      "mamdani",
+      8
+    ],
+    [
+      "anthony albanese",
+      7
+    ],
+    [
+      "peter dutton",
+      7
+    ],
+    [
+      "mark cuban",
+      7
+    ],
+    [
+      "marjorie taylor green",
+      7
+    ],
+    [
+      "rfk",
+      6
+    ],
+    [
+      "lebron james",
+      6
+    ],
+    [
+      "vivek ramaswamy",
+      5
+    ],
+    [
+      "pierre poilievre",
+      5
+    ],
+    [
+      "friedrich merz",
+      5
+    ],
+    [
+      "kanye west",
+      5
+    ],
+    [
+      "emmanuel macron",
+      5
+    ],
+    [
+      "jeff bezos",
+      5
+    ],
+    [
+      "ghislaine maxwell",
+      5
+    ],
+    [
+      "kash patel",
+      5
+    ],
+    [
+      "sanae takaichi",
+      5
+    ],
+    [
+      "larry ellison",
+      4
+    ],
+    [
+      "joe rogan",
+      4
+    ],
+    [
+      "nancy pelosi",
+      4
+    ],
+    [
+      "steve balmer",
+      4
+    ],
+    [
+      "javier milei",
+      4
+    ],
+    [
+      "alex karp",
+      4
+    ],
+    [
+      "tim cook",
+      4
+    ],
+    [
+      "tom cruise",
+      4
+    ],
+    [
+      "shigeru ishiba",
+      4
+    ],
+    [
+      "rupert murdoch",
+      4
+    ],
+    [
+      "graham platner",
+      4
+    ],
+    [
+      "olaf scholz",
+      3
+    ],
+    [
+      "lizz truss",
+      3
+    ],
+    [
+      "sbf",
+      3
+    ],
+    [
+      "david sacks",
+      3
+    ],
+    [
+      "katy perry",
+      3
+    ],
+    [
+      "taylor swift",
+      3
+    ],
+    [
+      "jamie diamond",
+      3
+    ],
+    [
+      "andrew cuomo",
+      3
+    ],
+    [
+      "warren buffet",
+      3
+    ],
+    [
+      "prince andrew",
+      3
+    ],
+    [
+      "curtis siwa",
+      3
+    ],
+    [
+      "dwayne johnson",
+      3
+    ],
+    [
+      "kawhi leonard",
+      3
+    ],
+    [
+      "adrian dittmann",
+      2
+    ],
+    [
+      "tim sweeney",
+      2
+    ],
+    [
+      "shou chew",
+      2
+    ],
+    [
+      "masayoshi son",
+      2
+    ],
+    [
+      "satya nadella",
+      2
+    ],
+    [
+      "anthony davis",
+      2
+    ],
+    [
+      "eric adams",
+      2
+    ],
+    [
+      "kamala harris",
+      2
+    ],
+    [
+      "linda mcmahon",
+      2
+    ],
+    [
+      "anthony edwards",
+      2
+    ],
+    [
+      "pete buttigieg",
+      2
+    ],
+    [
+      "george lucas",
+      2
+    ],
+    [
+      "mbs",
+      2
+    ],
+    [
+      "bill gates",
+      2
+    ],
+    [
+      "kim jong un",
+      2
+    ],
+    [
+      "leonardo dicaprio",
+      2
+    ],
+    [
+      "magnus carlsen",
+      2
+    ],
+    [
+      "peter thiel",
+      2
+    ],
+    [
+      "steve bannon",
+      2
+    ],
+    [
+      "tucker carlson",
+      2
+    ],
+    [
+      "rand paul",
+      2
+    ],
+    [
+      "adam sandler",
+      2
+    ],
+    [
+      "barack obama",
+      2
+    ],
+    [
+      "modi",
+      2
+    ],
+    [
+      "jimmy carter",
+      2
+    ],
+    [
+      "bill clinton",
+      2
+    ],
+    [
+      "jimmy kimmel",
+      2
+    ],
+    [
+      "chuck schumer",
+      2
+    ],
+    [
+      "nicolas maduro",
+      2
+    ],
+    [
+      "dana white",
+      1
+    ],
+    [
+      "george soros",
+      1
+    ],
+    [
+      "dua lipa",
+      1
+    ],
+    [
+      "dean norris",
+      1
+    ],
+    [
+      "gw bush",
+      1
+    ],
+    [
+      "kendrick lamar",
+      1
+    ],
+    [
+      "keanu reeves",
+      1
+    ],
+    [
+      "matthew perry",
+      1
+    ],
+    [
+      "angela merkel",
+      1
+    ],
+    [
+      "robert habeck",
+      1
+    ],
+    [
+      "j cole",
+      1
+    ],
+    [
+      "steph curry",
+      1
+    ],
+    [
+      "nikola jovic",
+      1
+    ],
+    [
+      "sga",
+      1
+    ],
+    [
+      "michael jordan",
+      1
+    ],
+    [
+      "marie le pen",
+      1
+    ],
+    [
+      "bolsonaro",
+      1
+    ],
+    [
+      "gordon ramsay",
+      1
+    ],
+    [
+      "pope francis",
+      1
+    ],
+    [
+      "jack black",
+      1
+    ],
+    [
+      "austin reeves",
+      1
+    ],
+    [
+      "diddy",
+      1
+    ],
+    [
+      "george rr martin",
+      1
+    ],
+    [
+      "martha stewart",
+      1
+    ],
+    [
+      "ted cruz",
+      1
+    ],
+    [
+      "anna wintour",
+      1
+    ],
+    [
+      "logic",
+      1
+    ],
+    [
+      "charles leclerc",
+      1
+    ],
+    [
+      "keir starmer",
+      1
+    ],
+    [
+      "nigel farage",
+      1
+    ],
+    [
+      "aoc",
+      1
+    ],
+    [
+      "hunter biden",
+      1
+    ],
+    [
+      "george clooney",
+      1
+    ],
+    [
+      "jack ma",
+      1
+    ],
+    [
+      "hillary clinton",
+      1
+    ],
+    [
+      "lip bu tan",
+      1
+    ],
+    [
+      "kevin o'leary",
+      1
+    ],
+    [
+      "mike pence",
+      1
+    ],
+    [
+      "ice cube",
+      1
+    ],
+    [
+      "kevin spacey",
+      1
+    ],
+    [
+      "adam silver",
+      1
+    ],
+    [
+      "jackie chan",
+      1
+    ],
+    [
+      "charlie kirk",
+      1
+    ],
+    [
+      "kevin hart",
+      1
+    ],
+    [
+      "drake",
+      1
+    ],
+    [
+      "wemby",
+      1
+    ],
+    [
+      "tim walz",
+      1
+    ],
+    [
+      "arianna grande",
+      1
+    ],
+    [
+      "simon cowell",
+      1
+    ],
+    [
+      "timothee chalamet",
+      1
+    ]
+  ],
+  "collabCount": [
+    [
+      "ludwig",
+      9
+    ],
+    [
+      "squeex",
+      8
+    ],
+    [
+      "linkus",
+      6
+    ],
+    [
+      "stanz",
+      6
+    ],
+    [
+      "hera",
+      5
+    ],
+    [
+      "dougdoug",
+      4
+    ],
+    [
+      "aspecticor",
+      4
+    ],
+    [
+      "send tft",
+      1
+    ],
+    [
+      "lulw master",
+      1
+    ],
+    [
+      "drenchy",
+      1
+    ],
+    [
+      "greensuigi",
+      1
+    ],
+    [
+      "liam",
+      1
+    ],
+    [
+      "jreg",
+      1
+    ]
+  ],
+  "gameLengths": [
+    [
+      "silksong",
+      203265
+    ],
+    [
+      "aoe2",
+      72584
+    ],
+    [
+      "blue prince",
+      63926
+    ],
+    [
+      "hitman",
+      45185
+    ],
+    [
+      "peak",
+      35771
+    ],
+    [
+      "tft",
+      31621
+    ],
+    [
+      "mario 64",
+      14309
+    ],
+    [
+      "split fiction",
+      12099
+    ],
+    [
+      "minecraft",
+      12002
+    ],
+    [
+      "hollow knight",
+      11871
+    ],
+    [
+      "diplomacy is not an option",
+      8017
+    ],
+    [
+      "battlefront 2",
+      7620
+    ],
+    [
+      "road to empress",
+      7375
+    ],
+    [
+      "aethermancer",
+      7326
+    ],
+    [
+      "get to work",
+      6897
+    ],
+    [
+      "dispatch",
+      6191
+    ],
+    [
+      "is this seat taken",
+      5541
+    ],
+    [
+      "expedition 33",
+      5026
+    ],
+    [
+      "minecraft rts",
+      3772
+    ],
+    [
+      "loan shark",
+      3621
+    ],
+    [
+      "acecraft",
+      2842
+    ],
+    [
+      "fortnite",
+      2529
+    ],
+    [
+      "zoomer cookie clicker",
+      2012
+    ],
+    [
+      "who's your daddy",
+      1908
+    ],
+    [
+      "tricky towers",
+      1518
+    ],
+    [
+      "straftat",
+      1000
+    ],
+    [
+      "ricochet",
+      797
+    ],
+    [
+      "sc2",
+      508
+    ]
+  ],
+  "firstTimeChatter": {
+    "success": 19,
+    "total": 27
+  },
+  "storyCount": [
+    [
+      "bridesmaid chatgpt",
+      3
+    ],
+    [
+      "jan 6 tommyinit",
+      3
+    ],
+    [
+      "twitch free pc perk removed",
+      3
+    ],
+    [
+      "navalny rick and morty",
+      2
+    ],
+    [
+      "cuban dominican uber",
+      2
+    ],
+    [
+      "xqc honda fit",
+      2
+    ],
+    [
+      "juno scary movie midsommar",
+      2
+    ],
+    [
+      "germany christmas n64",
+      2
+    ],
+    [
+      "twitch open bar vomit",
+      2
+    ],
+    [
+      "twitch nap pods sex",
+      2
+    ],
+    [
+      "dad beyonce halftime show",
+      1
+    ],
+    [
+      "bro christmas nuclear missile silo",
+      1
+    ],
+    [
+      "ryan gosling watch",
+      1
+    ],
+    [
+      "nvidia gamescon keynote",
+      1
+    ],
+    [
+      "twitch interview panel",
+      1
+    ],
+    [
+      "grubby esports",
+      1
+    ],
+    [
+      "bonfire lighter fluid",
+      1
+    ],
+    [
+      "ari facebook wall",
+      1
+    ],
+    [
+      "nvidia green box",
+      1
+    ],
+    [
+      "fishing tackle box kayak",
+      1
+    ],
+    [
+      "nfl cmo help on marketing",
+      1
+    ],
+    [
+      "twitch china war room",
+      1
+    ],
+    [
+      "twitch amazon acquisition blue folder",
+      1
+    ],
+    [
+      "twitch email subject line",
+      1
+    ],
+    [
+      "smartwatches are ugly",
+      1
+    ],
+    [
+      "choosing nvidia over blizzard",
+      1
+    ],
+    [
+      "twitch boss double email",
+      1
+    ],
+    [
+      "valorant interview flop",
+      1
+    ],
+    [
+      "physics teacher",
+      1
+    ],
+    [
+      "quitting league",
+      1
+    ],
+    [
+      "did not get advance wars",
+      1
+    ],
+    [
+      "trading pkm cards for pkm red",
+      1
+    ],
+    [
+      "had to clean room, mad at mom",
+      1
+    ],
+    [
+      "harriet the spy private notebook",
+      1
+    ],
+    [
+      "drunk friend intervention",
+      1
+    ],
+    [
+      "germany bro fell off wall concuss",
+      1
+    ],
+    [
+      "military ad coupons",
+      1
+    ],
+    [
+      "mario 64 mom strategy guide",
+      1
+    ],
+    [
+      "roommate christian vomit",
+      1
+    ],
+    [
+      "paul restroom naked",
+      1
+    ],
+    [
+      "josh custom longboard",
+      1
+    ],
+    [
+      "recession threw DS broke hinge",
+      1
+    ],
+    [
+      "korean karaoke justin timberlake",
+      1
+    ],
+    [
+      "mom arizona drive to school swerve accident",
+      1
+    ],
+    [
+      "school make a second lunch line",
+      1
+    ],
+    [
+      "getting twitch interview league worlds blizzon",
+      1
+    ],
+    [
+      "las vegas roommate dubstep drive back",
+      1
+    ],
+    [
+      "kansas patton adopted a dog",
+      1
+    ],
+    [
+      "science teacher dad pretzels",
+      1
+    ],
+    [
+      "calbury wedding zoo free",
+      1
+    ],
+    [
+      "highschool newspaper didn't watch brick",
+      1
+    ],
+    [
+      "kids stole his first edition pokemon cards",
+      1
+    ],
+    [
+      "blizzard afterparty reynad rizz",
+      1
+    ],
+    [
+      "smoothie king",
+      1
+    ],
+    [
+      "europe with ari before dating",
+      1
+    ],
+    [
+      "london giraffe guy",
+      1
+    ],
+    [
+      "took adderall for test but cleaned room",
+      1
+    ],
+    [
+      "happy school got cancelled 9/11",
+      1
+    ],
+    [
+      "crying about homework 9/11",
+      1
+    ],
+    [
+      "twitch blur dinner on him",
+      1
+    ],
+    [
+      "twitch expensed hearthstone packs",
+      1
+    ],
+    [
+      "jimmy wong 10k chip blackjack",
+      1
+    ],
+    [
+      "drive got sleepy listened to scary stories",
+      1
+    ],
+    [
+      "mom didn't want him to read comics",
+      1
+    ],
+    [
+      "history of espan dad",
+      1
+    ]
+  ],
+  "total_yok": 235
+}

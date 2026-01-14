@@ -1,1 +1,55 @@
 @import 'tailwindcss';
+
+@theme {
+  --color-primary-100: hsl(274, 90%, 95%);
+  --color-primary-200: hsl(274, 90%, 90%);
+  --color-primary-300: hsl(274, 90%, 80%);
+  --color-primary-400: hsl(274, 90%, 70%);
+  --color-primary-500: hsl(272, 80%, 60%);
+  --color-primary-600: hsl(268, 70%, 50%);
+  --color-primary-700: hsl(264, 90%, 40%);
+  --color-primary-800: hsl(260, 90%, 30%);
+  --color-primary-900: hsl(256, 90%, 20%);
+
+  --color-accent-100: hsl(114, 90%, 95%);
+  --color-accent-200: hsl(114, 90%, 90%);
+  --color-accent-300: hsl(114, 90%, 80%);
+  --color-accent-400: hsl(114, 90%, 70%);
+  --color-accent-500: hsl(112, 80%, 60%);
+  --color-accent-600: hsl(108, 70%, 50%);
+  --color-accent-700: hsl(104, 90%, 40%);
+  --color-accent-800: hsl(100, 90%, 30%);
+  --color-accent-900: hsl(96, 90%, 20%);
+
+  --color-cgray-100: hsl(274, 10%, 95%);
+  --color-cgray-200: hsl(274, 10%, 90%);
+  --color-cgray-300: hsl(274, 10%, 80%);
+  --color-cgray-400: hsl(274, 10%, 70%);
+  --color-cgray-500: hsl(274, 10%, 60%);
+  --color-cgray-600: hsl(274, 10%, 50%);
+  --color-cgray-700: hsl(274, 10%, 40%);
+  --color-cgray-800: hsl(274, 10%, 30%);
+  --color-cgray-900: hsl(274, 10%, 20%);
+
+  --text-heading-sm: 2.25rem;
+  --text-heading-lg: 3rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--color-slate-50);
+  background-color: oklch(0.1298 0.0425 265.13);
+  background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='120' height='20' patternTransform='scale(3) rotate(40)'><rect x='0' y='0' width='100%' height='100%' fill='%23020618ff'/><path d='M-50.129 12.685C-33.346 12.358-16.786 4.918 0 5c16.787.082 43.213 10 60 10s43.213-9.918 60-10c16.786-.082 33.346 7.358 50.129 7.685'  stroke-width='4.5' stroke='%2318131cff' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+
+  font-family:
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    Noto Sans,
+    Ubuntu,
+    Cantarell,
+    Helvetica Neue;
+}

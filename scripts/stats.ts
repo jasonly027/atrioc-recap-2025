@@ -101,7 +101,7 @@ const weekdayDist = (() => {
   );
   return R.mapValues(frequency, (freq) => ({
     count: freq,
-    percent: Number(((freq / total_streams) * 100).toFixed(2)),
+    percent: Number(((freq / total_streams) * 100).toFixed(1)),
   }));
 })();
 
@@ -112,7 +112,7 @@ const longest_streams = (() => {
 
   const sorted_strms = R.sortBy(strms, [R.prop(0), 'desc']);
 
-  return sorted_strms.slice(0, 3);
+  return sorted_strms.slice(0, 5);
 })();
 
 const categoryDist = (() => {
@@ -128,7 +128,7 @@ const categoryDist = (() => {
 
   return R.mapValues(frequency, (freq) => ({
     count: freq,
-    percent: Number(((freq / total_streams) * 100).toFixed(2)),
+    percent: Number(((freq / total_streams) * 100).toFixed(1)),
   }));
 })();
 
@@ -212,6 +212,25 @@ const storyCount = (() => {
 
 const total_yok = R.sumBy(vods, (v) => v.yok);
 
+// Assert for Dan Clancy Section
+(() => {
+  const stream = streams.filter((stream) => {
+    if (stream.length !== 1) return false;
+
+    const ctgs = categories[stream[0].video_id];
+
+    return ctgs?.length == 1 && ctgs[0].category === 'waffling';
+  });
+
+  if (
+    stream.length !== 1 ||
+    stream[0]?.length !== 1 ||
+    stream[0][0].title !== 'Atrioc Exposes The TRUTH About Dan Clancy'
+  ) {
+    throw new Error("Dan Clancy Power Hour wasn't the only pure waffling stream");
+  }
+})();
+
 const stats = {
   total_streams,
   weekdayDist,
@@ -243,4 +262,4 @@ const stats = {
 
 export type Stats = typeof stats;
 
-fs.writeFileSync('stats.json', JSON.stringify(stats, null, 2));
+fs.writeFileSync('src/lib/assets/stats.json', JSON.stringify(stats, null, 2));
