@@ -5,7 +5,7 @@
   import Section from '../Section.svelte';
 </script>
 
-<Section id="fun-stats" nextId="joeler" class="gap-15">
+<Section id="fun-stats" nextId="joeler">
   <Fact>
     Atrioc blew his nose <Counter
       value={stats.total_nose_blow}

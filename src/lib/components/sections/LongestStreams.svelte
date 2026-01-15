@@ -2,6 +2,7 @@
   import { BarController, BarElement, CategoryScale, Chart, LinearScale } from 'chart.js';
   import ChartDataLabels from 'chartjs-plugin-datalabels';
   import { Bar } from 'svelte5-chartjs';
+  import { intervalToDuration, formatDuration as formatDur } from 'date-fns';
 
   import Section from '../Section.svelte';
   import SectionHeader from '../SectionHeader.svelte';
@@ -15,6 +16,14 @@
     LinearScale,
   });
 
+  function formatDuration(seconds: number) {
+    const duration = intervalToDuration({ start: 0, end: seconds * 1000 });
+    return formatDur(duration, { format: ['days', 'hours', 'minutes'] });
+  }
+
+  let innerWidth = $state(0);
+  const labelRotation = $derived(innerWidth < 640 ? -50 : 0);
+
   const topics = [
     'Silksong Day 1, Sep. 4',
     'Atricon, Nov. 22',
@@ -25,22 +34,13 @@
 
   const durations = stats.longest_streams.map((stream) => stream[0]);
 
-  function formatSeconds(seconds: number) {
-    const h = Math.floor(seconds / 3600);
-    const m = Math.round((seconds % 3600) / 60);
-    return `${h} hrs and ${m} mins`;
-  }
-
-  let innerWidth = $state(0);
-  const labelRotation = $derived(innerWidth < 640 ? -50 : 0);
-
   const data = {
     labels: topics,
     datasets: [
       {
         data: durations,
         axis: 'y',
-        borderRadius: 7,
+        borderRadius: 5,
       },
     ],
   };
@@ -48,7 +48,7 @@
 
 <svelte:window bind:innerWidth />
 
-<Section id="longest-stream" nextId="fun-stats" class="gap-6">
+<Section id="longest-stream" nextId="fun-stats">
   <SectionHeader>Longest Streams</SectionHeader>
 
   <div class="relative h-160 w-[90vw] max-w-240">
@@ -63,7 +63,7 @@
           datalabels: {
             anchor: 'end',
             align: 'start',
-            formatter: formatSeconds,
+            formatter: formatDuration,
             rotation: labelRotation,
           },
         },

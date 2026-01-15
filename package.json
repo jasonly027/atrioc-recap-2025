@@ -46,6 +46,7 @@
   "dependencies": {
     "chart.js": "^4.5.1",
     "chartjs-plugin-datalabels": "^2.2.0",
+    "date-fns": "^4.1.0",
     "es-toolkit": "^1.43.0",
     "svelte-inview": "^4.0.4",
     "svelte5-chartjs": "^1.0.0"

@@ -16,4 +16,4 @@ Chart.defaults.font.size = 18;
 Chart.defaults.font.weight = 'bold';
 Chart.defaults.font.family = fontFamily;
 
-Chart.defaults.backgroundColor = ['hsl(268, 70%, 50%)', 'hsl(272, 80%, 60%)'];
+Chart.defaults.backgroundColor = ['hsl(268, 70%, 50%)', 'hsl(274, 90%, 70%)'];

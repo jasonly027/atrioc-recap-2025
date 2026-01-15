@@ -15,7 +15,7 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin"
         allowfullscreen
-        class="h-36.5 w-full rounded-lg sm:h-67.5"
+        class="aspect-video w-full rounded-lg max-sm:max-w-48"
       ></iframe>
     {/snippet}
   </Fact>

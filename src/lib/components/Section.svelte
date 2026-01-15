@@ -7,17 +7,16 @@
 </script>
 
 <article
-  class={[
-    'relative flex min-h-[max(100vh,30rem)] flex-col items-center justify-center p-4 font-bold sm:text-lg',
-    className,
-  ]}
+  class={['flex min-h-[max(100vh,30rem)] flex-col items-center justify-center p-4 font-bold sm:text-lg', className]}
   {...rest}
 >
   <div class="flex-1"></div>
-  {@render children?.()}
+  <div class="flex flex-col items-center justify-center gap-15">
+    {@render children?.()}
+  </div>
   <div class="flex-1"></div>
   {#if nextId}
-    <a href={`#${nextId}`} aria-label="Next Section"
+    <a href={`#${nextId}`} aria-label="Next Section" class="mt-8 mb-4"
       ><svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"

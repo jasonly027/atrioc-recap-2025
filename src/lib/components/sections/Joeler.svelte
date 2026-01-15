@@ -5,13 +5,13 @@
   import SectionHeader from '../SectionHeader.svelte';
 </script>
 
-<Section id="joeler" class="gap-15">
+<Section id="joeler" nextId="gss">
   <SectionHeader>Joeler</SectionHeader>
 
-  <div class="flex flex-col items-center gap-15">
+  <div class="flex flex-col items-center justify-center gap-15">
     <img src="/joeler.avif" alt="Spinning Fish" />
 
-    <p class="max-w-48 text-xl sm:max-w-96">
+    <p class=" max-w-96 text-xl">
       Ari appeared in <Counter
         value={stats.total_joeler}
         class="inline-block w-[2ch] text-right underline decoration-2 underline-offset-4"
@@ -25,7 +25,7 @@
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen
-      class="h-45 w-full sm:h-54.75"
+      class="aspect-video w-full rounded-lg"
     ></iframe>
   </div>
 </Section>

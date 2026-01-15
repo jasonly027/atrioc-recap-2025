@@ -9,7 +9,7 @@
   const { children, footer }: Props = $props();
 </script>
 
-<div class="flex flex-col gap-4 rounded-lg bg-cgray-900 p-4 sm:gap-10 sm:p-10">
+<div class="flex flex-col items-center gap-4 rounded-lg bg-cgray-900 p-4 sm:gap-10 sm:p-10">
   <div class="flex items-center gap-4 sm:gap-10">
     <div class="rounded-lg bg-primary-600 fill-primary-300 p-2 sm:p-4">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="size-9 sm:size-12">

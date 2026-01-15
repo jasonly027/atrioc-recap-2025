@@ -62,10 +62,10 @@
 
 <svelte:window bind:innerWidth />
 
-<Section id="category-dist" nextId="dan-clancy" class="gap-6">
+<Section id="category-dist" nextId="dan-clancy">
   <SectionHeader>Category Frequency</SectionHeader>
 
-  <p class="text-center">Nearly all streams included Atrioc waffling or reacting to something!</p>
+  <p class="text-center text-xl">Nearly all streams included Atrioc waffling or reacting to something!</p>
 
   <div class="relative h-240 w-[90vw] max-w-240">
     <Bar

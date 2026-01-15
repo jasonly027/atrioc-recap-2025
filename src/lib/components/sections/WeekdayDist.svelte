@@ -33,13 +33,13 @@
   };
 </script>
 
-<Section id="weekday-dist" nextId="category-dist" class="gap-15">
+<Section id="weekday-dist" nextId="category-dist">
   <SectionHeader>Streams Per Week Day</SectionHeader>
   <div class="relative h-120 w-[90vw] max-w-240">
     <Bar
       {data}
       options={{
-        scales: { y: { display: false, max: largestCount + 15 } },
+        scales: { y: { display: false, max: largestCount + 10 } },
         maintainAspectRatio: false,
         plugins: {
           datalabels: {
