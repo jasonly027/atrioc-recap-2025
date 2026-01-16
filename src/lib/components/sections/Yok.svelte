@@ -68,7 +68,7 @@
   <SectionHeader>Year of Kindness</SectionHeader>
 
   <div class="flex flex-col items-center justify-center gap-8 text-center text-8xl sm:flex-row sm:items-baseline">
-    <Counter value={stats.total_yok} />
+    <Counter value={stats.total_yok} class="inline-block w-[3ch] text-right" />
 
     <div class="flex items-baseline justify-center">
       <img src="/yok.avif" alt="YOK emote" />
