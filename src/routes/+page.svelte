@@ -1,4 +1,6 @@
 <script lang="ts">
+  import { MetaTags } from 'svelte-meta-tags';
+
   import Landing from '$lib/components/sections/Landing.svelte';
   import TotalStreams from '$lib/components/sections/TotalStreams.svelte';
   import WeekdayDist from '$lib/components/sections/WeekdayDist.svelte';
@@ -18,6 +20,14 @@
   import Author from '$lib/components/sections/Author.svelte';
   import '$lib/chart.ts';
 </script>
+
+<MetaTags
+  title="Atrioc Recap - YOK 2025"
+  description="A look back at all the things that happened with Atrioc in 2025."
+  openGraph={{
+    type: 'website',
+  }}
+/>
 
 <Landing />
 <TotalStreams />

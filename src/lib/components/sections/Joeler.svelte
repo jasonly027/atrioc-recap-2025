@@ -9,7 +9,7 @@
   <SectionHeader>Joeler</SectionHeader>
 
   <div class="flex flex-col items-center justify-center gap-15">
-    <img src="/joeler.avif" alt="Spinning Fish" />
+    <img src="/joeler.webp" alt="Spinning Fish" />
 
     <p class=" max-w-96 text-xl">
       Ari appeared in <Counter

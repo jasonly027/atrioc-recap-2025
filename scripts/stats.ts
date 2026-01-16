@@ -60,7 +60,7 @@ const schemas = {
   // 'predictions_promises'
 } as const;
 
-const file = fs.readFileSync(`${import.meta.dirname}/atrioc-vods.xlsx`);
+const file = fs.readFileSync(`static/atrioc-vods.xlsx`);
 const workbook = XLSX.read(file, { cellDates: true });
 const sheets = workbook.Sheets;
 
